@@ -1,0 +1,8 @@
+C:\Users\ederc\Desktop\curso de C#\exercicio_fixacao\exercicio_es06\obj\Debug\exercicio_es06.csproj.AssemblyReference.cache
+C:\Users\ederc\Desktop\curso de C#\exercicio_fixacao\exercicio_es06\obj\Debug\exercicio_es06.csproj.SuggestedBindingRedirects.cache
+C:\Users\ederc\Desktop\curso de C#\exercicio_fixacao\exercicio_es06\obj\Debug\exercicio_es06.csproj.CoreCompileInputs.cache
+C:\Users\ederc\Desktop\curso de C#\exercicio_fixacao\exercicio_es06\bin\Debug\exercicio_es06.exe.config
+C:\Users\ederc\Desktop\curso de C#\exercicio_fixacao\exercicio_es06\bin\Debug\exercicio_es06.exe
+C:\Users\ederc\Desktop\curso de C#\exercicio_fixacao\exercicio_es06\bin\Debug\exercicio_es06.pdb
+C:\Users\ederc\Desktop\curso de C#\exercicio_fixacao\exercicio_es06\obj\Debug\exercicio_es06.exe
+C:\Users\ederc\Desktop\curso de C#\exercicio_fixacao\exercicio_es06\obj\Debug\exercicio_es06.pdb
